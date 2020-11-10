@@ -1,0 +1,14 @@
+cp template.cpp a.cpp
+
+cat > in
+center mouse wheel
+ctrl+c
+
+./a < in
+
+
+
+three types of setup:
+vscode -> best(windows)
+geany -> best(linux)(terminal) (X)
+sublime -> ok ok (X)
